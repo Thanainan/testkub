@@ -1,5 +1,11 @@
 # testkub
 ทดสอบ
+
+
+
+
+
+
 package testtest;
 
 import java.lang.ArrayIndexOutOfBoundsException;
@@ -55,7 +61,8 @@ public class play {
 				
 			}
 		}
-	}
+				}
 }
+
 
 
